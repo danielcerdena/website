@@ -1,0 +1,27 @@
+header {
+    .navegador {
+        display: flex;
+        justify-content: space-between;
+
+        .logo {
+            display: flex;
+            img {
+                width: 40px;
+                height: 40px;
+            }
+        }
+        .enlaces{
+            a{
+                margin: 20px;
+                text-decoration: none;
+                
+            }
+        }
+        .boton{
+            button{
+                border-radius: 10px;
+            }
+            
+        }
+    }
+}

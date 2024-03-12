@@ -1,0 +1,20 @@
+header .navegador {
+  display: flex;
+  justify-content: space-between;
+}
+header .navegador .logo {
+  display: flex;
+}
+header .navegador .logo img {
+  width: 40px;
+  height: 40px;
+}
+header .navegador .enlaces a {
+  margin: 20px;
+  text-decoration: none;
+}
+header .navegador .boton button {
+  border-radius: 10px;
+}
+
+/*# sourceMappingURL=main.css.map */
